@@ -1,5 +1,4 @@
-# Pattern-Matching
-//Drag the same color disc in a line
+// Pattern-Matching
 package roy.myappcompany.connectgame3;
 
 import android.support.v7.app.AppCompatActivity;
